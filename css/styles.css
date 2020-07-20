@@ -1,0 +1,127 @@
+/*********************tags/classes/id************************/
+body {
+  margin: 0px;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  display: inline-block;
+  position: relative;
+  bottom: 80px;
+  margin: 0;
+  font-size: 90px;
+  font-family: 'Sacramento', cursive;
+}
+
+h2{
+  margin: 35px;
+}
+
+h3{
+  font-family: 'Oswald', sans-serif;
+  font-size: 30px;
+}
+
+p{
+  font-family: 'Montserrat', sans-serif;
+  margin: 0;
+}
+
+hr{
+  color: #596e79;
+  border-style: dotted none none;
+  border-width: 10px;
+  width: 5%;
+
+}
+
+a{
+color: white;
+}
+
+.Computer{
+position: relative;
+bottom: 40px;
+}
+
+.profile-img {
+  margin-top: 0px;
+}
+
+.Cloud-Top {
+  position: absolute;
+  right: 350px;
+  top: 180px;
+}
+
+.Cloud-Mid {
+  position: absolute;
+  top: 300px;
+  left: 300px;
+  height: 51px;
+  width: 350px;
+}
+
+.Contact-me{
+  margin: 0;
+  background-color: #ee8572;
+  padding-top: 30px;
+}
+
+
+.para{
+  position: relative;
+  bottom: 80px;
+}
+
+.profile-Para{
+  margin: 50px;
+}
+
+.touch{
+  margin: 0px;
+  color: white;
+  font-size: 40px;
+}
+
+.what{
+  margin: 0px;
+  color: black;
+  font-size: 20px;
+  position: relative;
+  top: 10px;
+}
+
+.bellow{
+  color: white;
+  position: relative;
+  top: 30px;
+}
+
+.Copy{
+  position: relative;
+  top: 23px;
+  margin-top: 15px;
+  color: white;
+}
+
+/*********************Containers************************/
+.Top-Container {
+  padding-top: 250px;
+  position: relative;
+  background-color: #d4f3ef;
+  height: 735px;
+}
+
+.Middle-container {
+  margin: 0;
+  background-color: white;
+  padding-bottom: 40px;
+}
+
+.Bottom-Container {
+  background-color: #ee8572;
+  padding-top: 50px;
+  padding-bottom: 30px;
+}
